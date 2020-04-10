@@ -15,4 +15,4 @@ A collection of links with useful information concerning 5G and its effects on h
 
 ## Contributing
 
-To contribute to this repository please fork it and create a pull request to merge in your changes.
+To contribute to [this repository](https://github.com/collaborative-resources/5G-knowledge-base) please fork it and create a pull request, an administrator will review your changes and merge them once accepted.
