@@ -1,2 +1,2 @@
-# 5G-knowledge-base
-5G knowledge base
+# 5G knowledge base
+> Information and resources on 5G
