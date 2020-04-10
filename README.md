@@ -12,7 +12,7 @@ No international facebook groups have been documented yet.
 A collection of links with useful information concerning 5G and its effects on humans/animals and the environment.
 
 - [Environmental Health Trust](https://ehtrust.org/) - The Environmental Health Trust carries out cutting edge research to understand and reduce environmental health risks.
-- [The5G appeal](https://www.5gappeal.eu/the-5g-appeal/) - Scientists and doctors, recommend a moratorium on the roll-out of the fifth generation, 5G, for telecommunication until potential hazards for human health and the environment have been fully investigated by scientists independent from industry. 
+- [The 5G appeal](https://www.5gappeal.eu/the-5g-appeal/) - Scientists and doctors, recommend a moratorium on the roll-out of the fifth generation, 5G, for telecommunication until potential hazards for human health and the environment have been fully investigated by scientists independent from industry. 
 
 ## Contributing
 
